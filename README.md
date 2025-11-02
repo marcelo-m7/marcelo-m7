@@ -1,19 +1,76 @@
-<h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">Software engineer focused on digital products, automation and DevOps. Passionate about accessibility, open-source and inclusive design. Founder of Monynha Softwares — a creative laboratory that combines technology, diversity and digital art.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelo-m7" alt="marcelo-m7" /></a> </p>
+# 👋 Marcelo Santos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcelo-m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-m7" height="30" width="40" /></a>
-<a href="https://instagram.com/marcelo.santos.027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelo.santos.027" height="30" width="40" /></a>
-</p>
+### Full-Stack Developer | Cloud & DevOps Enthusiast | Open-Source Contributor
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo-m7&show_icons=true&locale=en&layout=compact" alt="marcelo-m7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-m7&show_icons=true&locale=en" alt="marcelo-m7" /></p>
+### 🧑‍💻 Sobre mim
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-m7&" alt="marcelo-m7" /></p>
+> Sou **Marcelo Santos**, apaixonado por criar soluções web escaláveis, automação de infraestrutura e promover a comunidade open-source. Fundador da **Monynha Softwares** — um laboratório criativo que combina tecnologia, diversidade e arte digital. Activo no desenvolvimento de projectos que democratizam a tecnologia e resolvem problemas reais.
+
+---
+
+### 🚀 O que faço / Competências Principais
+
+- 💻 **Desenvolvimento Web & Móvel** — Next.js, React, Flutter, TypeScript, JavaScript
+- ☁️ **Infraestrutura & DevOps** — Docker, Google Cloud Platform, Firebase, Nginx
+- 🗄️ **Bases de Dados & Backend** — PostgreSQL, MySQL, Node.js, Express, GraphQL
+- 🎨 **Design & Automação** — Tailwind CSS, Sass, Bash scripting, CI/CD
+- 🧠 **Open Source & Colaboração Comunitária** — Contribuições activas e mentoria
+- 📚 **Documentação Técnica** — Criação de guias e recursos para a comunidade
+
+---
+
+### ✨ Destaques de Projectos
+
+Aqui estão alguns dos meus repositórios mais relevantes:
+
+#### 🔹 [Monynha Softwares Projects](https://github.com/marcelo-m7)
+Laboratório criativo focado em soluções digitais acessíveis e inclusivas, combinando tecnologia e arte.  
+**Tecnologias:** React, Next.js, Flutter, GCP
+
+#### 🔹 [DevOps & Automation Tools](https://github.com/marcelo-m7)
+Scripts e ferramentas para automação de infraestrutura e deployment.  
+**Tecnologias:** Docker, Bash, Python, CI/CD
+
+#### 🔹 [Web Applications](https://github.com/marcelo-m7)
+Aplicações web escaláveis e responsivas com foco em UX e acessibilidade.  
+**Tecnologias:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
+
+#### 🔹 [Open Source Contributions](https://github.com/marcelo-m7)
+Contribuições para projectos open-source e ferramentas comunitárias.  
+**Áreas:** Documentação, Features, Bug Fixes
+
+🔍 **Explora os meus outros repositórios** para mais exemplos do meu trabalho e projectos em desenvolvimento!
+
+---
+
+### 📫 Contacto & Redes
+
+Vamos conectar-nos! Estou sempre aberto a novas oportunidades e colaborações:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
+[![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo@monynha.com)
+
+---
+
+### 💡 Obrigado pela visita!
+
+> Obrigado por visitar o meu perfil! Se gostares do meu trabalho, fica à vontade para dar ⭐ star, seguir ou contribuir. Vamos conectar-nos e criar algo incrível juntos! 🙂
+
+---
+
+<div align="center">
+
+### 📊 Estatísticas GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=marcelo-m7&show_icons=true&theme=radical&locale=pt-br" alt="Marcelo's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-m7&theme=radical&locale=pt-br" alt="Marcelo's GitHub Streak" />
+
+</div>
