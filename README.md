@@ -100,22 +100,26 @@ My mission is to democratize technology by creating accessible, inclusive soluti
 <tr>
 <td width="50%">
 
-### 🏢 Monynha Softwares
+### 🏢 [Monynha Softwares](https://github.com/marcelo-m7?tab=repositories&q=monynha)
 <br/>
 Creative digital solutions combining technology and art, focused on accessibility and inclusion.
 
 **Stack:** React • Next.js • Flutter • GCP
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=monynha)
 
 <br/>
 
 </td>
 <td width="50%">
 
-### ⚙️ DevOps & Automation
+### ⚙️ [DevOps & Automation](https://github.com/marcelo-m7?tab=repositories&q=devops)
 <br/>
 Infrastructure automation tools and deployment scripts for efficient workflows.
 
 **Stack:** Docker • Bash • Python • CI/CD
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=devops)
 
 <br/>
 
@@ -125,22 +129,26 @@ Infrastructure automation tools and deployment scripts for efficient workflows.
 <tr>
 <td width="50%">
 
-### 🌐 Web Applications
+### 🌐 [Web Applications](https://github.com/marcelo-m7?tab=repositories&q=web)
 <br/>
 Scalable, responsive web apps with emphasis on UX and accessibility.
 
 **Stack:** Next.js • TypeScript • Tailwind • PostgreSQL
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=web)
 
 <br/>
 
 </td>
 <td width="50%">
 
-### 🤝 Open Source
+### 🤝 [Open Source](https://github.com/marcelo-m7?tab=repositories&type=public)
 <br/>
 Active contributions to open-source projects and community tools.
 
 **Focus:** Documentation • Features • Bug Fixes
+
+[View Contributions →](https://github.com/marcelo-m7?tab=repositories&type=public)
 
 <br/>
 
