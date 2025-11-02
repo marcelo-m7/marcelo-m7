@@ -39,7 +39,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm **Marcelo Santos**, founder of **Monynha Softwares** — a creative laboratory where technology meets diversity and digital art. I'm passionate about building scalable web solutions, automating infrastructure, and fostering open-source communities.
 
@@ -161,7 +161,7 @@ Active contributions to open-source projects and community tools.
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-m7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-m7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.cyclic.app/graph?username=marcelo-m7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -241,5 +241,3 @@ Follow my journey
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
