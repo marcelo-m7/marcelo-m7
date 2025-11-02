@@ -47,11 +47,11 @@ My mission is to democratize technology by creating accessible, inclusive soluti
 
 ### 🎯 What I'm Currently Doing
 
-- 🔭 Building innovative projects at **Monynha Softwares**
-- 🌱 Mastering cloud architecture and DevOps best practices
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **Web Development, Cloud Infrastructure, DevOps**
-- ⚡ Fun fact: I believe great code is a form of art
+- 🔭 Currently developing **Artify**, a platform for digital artists to showcase and sell their work, at **Monynha Softwares**
+- 🌱 Deepening expertise in **AWS Lambda**, **Terraform**, and **Kubernetes** for scalable cloud deployments
+- 👯 Actively contributing to the [OpenDevOps Toolkit](https://github.com/opendevops-toolkit) and seeking collaborators interested in cloud automation
+- 💬 Ask me about building serverless applications, infrastructure as code, or integrating CI/CD pipelines
+- ⚡ Fun fact: I recently automated my home lighting system using IoT and serverless functions!
 
 <br/>
 
