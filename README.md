@@ -2,14 +2,15 @@
   
 # 👋 Hello, I'm Marcelo Santos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
 ### 🚀 Passionate about automation, accessibility, and inclusive design
 *Combining technology, diversity, and digital art to create meaningful solutions*
 
+[![Website](https://img.shields.io/badge/Website-marcelo.monynha.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcelo.monynha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcelo-m7&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -19,14 +20,37 @@
 
 ## 🎯 About Me
 
+> **Mission:** Creating inclusive, accessible technology that empowers people and brings communities together through innovation, diversity, and digital art.
+
 ```typescript
 const marcelo = {
-    role: "Software Engineer",
-    company: "Monynha Softwares",
-    location: "Brazil 🇧🇷",
-    interests: ["DevOps", "Automation", "Digital Products", "Accessibility", "Open Source"],
-    mission: "Creating inclusive technology that makes a difference",
-    currentlyLearning: ["Cloud Architecture", "System Design", "AI/ML Integration"],
+    role: "Software Engineer | DevOps Enthusiast",
+    company: "Founder @ Monynha Softwares",
+    location: "Brazil 🇧🇷 / Portugal 🇵🇹",
+    website: "https://marcelo.monynha.com",
+    
+    interests: [
+        "Automation & DevOps",
+        "Digital Products & Innovation",
+        "Accessibility & Inclusive Design",
+        "Open Source Contributions",
+        "Digital Art & Creative Technology"
+    ],
+    
+    currentlyLearning: [
+        "Cloud Architecture & Scalability",
+        "System Design Patterns",
+        "AI/ML Integration",
+        "Accessibility Standards (WCAG)"
+    ],
+    
+    values: {
+        diversity: "Embracing different perspectives",
+        inclusion: "Technology for everyone",
+        openSource: "Sharing knowledge and code",
+        creativity: "Art meets technology"
+    },
+    
     funFact: "I believe technology + diversity + art = magic ✨"
 };
 ```
@@ -109,24 +133,29 @@ const marcelo = {
 ### 💼 Professional Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
+[![Website](https://img.shields.io/badge/Website-marcelo.monynha.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcelo.monynha.com)
 
-### 📧 Contact Information
+### 📧 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.m7@example.com)
+[![Email](https://img.shields.io/badge/Email-marcelo.net77@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
 
 ### 🌐 Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
 [![GitHub](https://img.shields.io/badge/GitHub-@marcelo--m7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
 
+---
+
 ### 🚀 Open for Collaboration
 
-I'm always interested in:
-- 💼 Exciting job opportunities
-- 🤝 Open source collaborations
-- 💡 Innovative project ideas
-- 🎯 DevOps and automation challenges
-- 🌈 Accessibility and inclusive design initiatives
+I'm always interested in connecting with people who share similar passions:
+
+- 💼 **Career Opportunities** — Open to exciting roles in software engineering and DevOps
+- 🤝 **Open Source Projects** — Contributing to meaningful projects that make a difference
+- 💡 **Innovative Ideas** — Let's build something that solves real problems
+- 🎯 **DevOps & Automation** — Sharing knowledge about modern development practices
+- 🌈 **Accessibility Initiatives** — Making technology inclusive for everyone
+- 🎨 **Creative Tech Projects** — Exploring the intersection of art and technology
 
 **Let's build something amazing together!** 🚀✨
 
@@ -136,8 +165,10 @@ I'm always interested in:
 
 <div align="center">
   
-  **⭐ From [marcelo-m7](https://github.com/marcelo-m7) with ❤️**
-  
-  *"Technology is best when it brings people together and makes the world more accessible for everyone"*
+### 💭 *"Technology is best when it brings people together and makes the world more accessible for everyone"*
+
+**⭐ From [marcelo-m7](https://github.com/marcelo-m7) with ❤️**
+
+*Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community*
 
 </div>
