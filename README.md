@@ -38,6 +38,13 @@ const marcelo = {
         "Digital Art & Creative Technology"
         "Accessibility & Inclusive Design",
     ],
+
+    spoken_languages: [
+        "pt-BR",
+        "en-US",
+        "fr-CH",
+        "es-ES"
+    ],
     
     currentlyLearning: [
         "Cloud Architecture & Scalability",
@@ -106,11 +113,6 @@ const marcelo = {
 </p>
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-m7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-m7&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-m7&theme=radical" alt="GitHub Streak Stats" />
