@@ -13,8 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=marcelo-m7&color=blueviolet&style=flat-square&label=Profile+Views)
+
 
 </div>
 
@@ -168,5 +168,9 @@ I'm always interested in connecting with people who share similar passions:
 **⭐ From [marcelo-m7](https://github.com/marcelo-m7) with ❤️**
 
 *Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community*
+
+[Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
+<br>
+[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
 
 </div>
