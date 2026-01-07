@@ -2,26 +2,35 @@
   
 # 👋 Hello, I'm Marcelo Santos
 
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcelo-m7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-### 🚀 Passionate about automation, accessibility, and inclusive design
-*Combining technology, diversity, and digital art to create meaningful solutions*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
 [![Website](https://img.shields.io/badge/Website-marcelo.monynha.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcelo.monynha.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
-![Profile Views](https://komarev.com/ghpvc/?username=marcelo-m7&color=blueviolet&style=flat-square&label=Profile+Views)
-
+[![Email](https://img.shields.io/badge/Email-marcelo.net77@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
+[![GitHub](https://img.shields.io/badge/GitHub-@marcelo--m7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
 
 </div>
 
----
+<br/>
 
-## 🎯 About Me
+## 🚀 About Me
 
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left">
+
+I'm **Marcelo Santos**, founder of **Monynha Softwares** — a creative laboratory where technology meets diversity and digital art. I'm passionate about building scalable web solutions, automating infrastructure, and fostering open-source communities.
+
+My mission is to democratize technology by creating accessible, inclusive solutions that solve real-world problems while mentoring the next generation of developers.
+
+</div>
 
 ```typescript
 const marcelo = {
@@ -62,7 +71,7 @@ const marcelo = {
 };
 ```
 
-<br clear="right"/>
+<br/>
 
 ## 💻 Tech Stack & Tools
 
@@ -112,37 +121,89 @@ const marcelo = {
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
+</br>
+
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-m7&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-m7&theme=redical&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 📫 Let's Connect!
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 💼 Professional Network
+<table>
+<tr>
+<td width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
-[![Website](https://img.shields.io/badge/Website-marcelo.monynha.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcelo.monynha.com)
+### 🏢 [Monynha Softwares](https://github.com/marcelo-m7?tab=repositories&q=monynha)
+<br/>
+Creative digital solutions combining technology and art, focused on accessibility and inclusion.
 
-### 📧 Get in Touch
+**Stack:** React • Next.js • Flutter • GCP
 
-[![Email](https://img.shields.io/badge/Email-marcelo.net77@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=monynha)
 
-### 🌐 Social Media
+<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
-[![GitHub](https://img.shields.io/badge/GitHub-@marcelo--m7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
+</td>
+<td width="50%">
 
----
+### ⚙️ [DevOps & Automation](https://github.com/marcelo-m7?tab=repositories&q=devops)
+<br/>
+Infrastructure automation tools and deployment scripts for efficient workflows.
+
+**Stack:** Docker • Bash • Python • CI/CD
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=devops)
+
+<br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 [Web Applications](https://github.com/marcelo-m7?tab=repositories&q=web)
+<br/>
+Scalable, responsive web apps with emphasis on UX and accessibility.
+
+**Stack:** Next.js • TypeScript • Tailwind • PostgreSQL
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=web)
+
+<br/>
+
+</td>
+<td width="50%">
+
+### 🤝 [Open Source](https://github.com/marcelo-m7?tab=repositories&type=public)
+<br/>
+Active contributions to open-source projects and community tools.
+
+**Focus:** Documentation • Features • Bug Fixes
+
+[View Contributions →](https://github.com/marcelo-m7?tab=repositories&type=public)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+<br/>
+
+
+## 📫 Let's Connect!
+
+I'm always open to new opportunities, collaborations, and interesting conversations. Whether you want to discuss a project, explore partnership opportunities, or just say hi — I'd love to hear from you!
 
 ### 🚀 Open for Collaboration
 
@@ -158,19 +219,21 @@ I'm always interested in connecting with people who share similar passions:
 **Let's build something amazing together!** 🚀✨
 
 </div>
-
----
+</br>
 
 <div align="center">
-  
+
+### ⭐ If you like my work, consider giving it a star!
+
 ### 💭 *"Technology is best when it brings people together and makes the world more accessible for everyone"*
 
-**⭐ From [marcelo-m7](https://github.com/marcelo-m7) with ❤️**
-
-*Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community*
-
-[Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
-<br>
-[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
+**From [marcelo-m7](https://github.com/marcelo-m7) with ❤️ *Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community***
 
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+[Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
+</br>
+[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
