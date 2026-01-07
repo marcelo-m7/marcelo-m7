@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Marcelo Santos
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+Backend+Developer;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <p align="center">
