@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 🚀 Passionate about automation, accessibility, and inclusive design
 *Combining technology, diversity, and digital art to create meaningful solutions*
 
@@ -20,21 +22,21 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const marcelo = {
     role: "Software Engineer | DevOps Enthusiast",
-    company: "Founder @ Monynha Softwares",
     location: "Brazil 🇧🇷 / Portugal 🇵🇹",
     website: "https://marcelo.monynha.com",
+    company: "Founder @ Monynha Softwares",
     
     interests: [
         "Automation & DevOps",
+        "Backend development",
         "Digital Products & Innovation",
-        "Accessibility & Inclusive Design",
         "Open Source Contributions",
         "Digital Art & Creative Technology"
+        "Accessibility & Inclusive Design",
     ],
     
     currentlyLearning: [
@@ -45,23 +47,15 @@ const marcelo = {
     ],
     
     values: {
-        diversity: "Embracing different perspectives",
         inclusion: "Technology for everyone",
         openSource: "Sharing knowledge and code",
         creativity: "Art meets technology"
-    },
-    
-    funFact: "I believe technology + diversity + art = magic ✨"
+        diversity: "Embracing different perspectives",
+    }
 };
 ```
 
 <br clear="right"/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcelo-m7&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
 ## 💻 Tech Stack & Tools
 
