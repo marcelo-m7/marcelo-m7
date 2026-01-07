@@ -2,10 +2,6 @@
   
 # 👋 Hello, I'm Marcelo Santos
 
-<!-- Animated Header -->
-
-<br/>
-
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+DevOps+Enthusiast;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
@@ -137,12 +133,27 @@ const marcelo = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-m7&theme=redical&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 💼Repositories
+## 🌟 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
-  
+
+### 🏢 [Monynha Softwares](https://github.com/marcelo-m7?tab=repositories&q=monynha)
+<br/>
+Creative digital solutions combining technology and art, focused on accessibility and inclusion.
+
+**Stack:** React • Next.js • Flutter • GCP
+
+[View Projects →](https://github.com/marcelo-m7?tab=repositories&q=monynha)
+
+<br/>
+
+</td>
+<td width="50%">
+
 ### ⚙️ [DevOps & Automation](https://github.com/marcelo-m7?tab=repositories&q=devops)
 <br/>
 Infrastructure automation tools and deployment scripts for efficient workflows.
@@ -154,7 +165,9 @@ Infrastructure automation tools and deployment scripts for efficient workflows.
 <br/>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### 🌐 [Web Applications](https://github.com/marcelo-m7?tab=repositories&q=web)
@@ -168,8 +181,6 @@ Scalable, responsive web apps with emphasis on UX and accessibility.
 <br/>
 
 </td>
-<tr>
-
 <td width="50%">
 
 ### 🤝 [Open Source](https://github.com/marcelo-m7?tab=repositories&type=public)
@@ -186,15 +197,13 @@ Active contributions to open-source projects and community tools.
 </tr>
 </table>
 
+</div>
+<br/>
+
 
 ## 📫 Let's Connect!
 
 I'm always open to new opportunities, collaborations, and interesting conversations. Whether you want to discuss a project, explore partnership opportunities, or just say hi — I'd love to hear from you!
-
-<div align="center">
-
-
----
 
 ### 🚀 Open for Collaboration
 
@@ -210,24 +219,21 @@ I'm always interested in connecting with people who share similar passions:
 **Let's build something amazing together!** 🚀✨
 
 </div>
+</br>
 
 <div align="center">
 
 ### ⭐ If you like my work, consider giving it a star!
 
-<br/>
-
 ### 💭 *"Technology is best when it brings people together and makes the world more accessible for everyone"*
 
-**⭐ From [marcelo-m7](https://github.com/marcelo-m7) with ❤️**
-
-*Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community*
-
-[Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
-</br>
-[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
+**From [marcelo-m7](https://github.com/marcelo-m7) with ❤️ *Bridging Brazil 🇧🇷 and Portugal 🇵🇹 through code, creativity, and community***
 
 </div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+[Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
+</br>
+[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
