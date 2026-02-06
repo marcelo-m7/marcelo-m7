@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
 [![Website](https://img.shields.io/badge/Website-marcelo.monynha.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcelo.monynha.com)
-[![Email](https://img.shields.io/badge/Email-marcelo.net77@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.net77@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-marcelo.net77@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo@monynha.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
 [![GitHub](https://img.shields.io/badge/GitHub-@marcelo--m7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
 
