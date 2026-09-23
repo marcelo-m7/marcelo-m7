@@ -130,9 +130,9 @@ const marcelo = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-m7&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-m7&theme=redical&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ## 🌟 Featured Projects
 
