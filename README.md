@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Marcelo Santos
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+Backend+Developer;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+Monynha+Softwares;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+Backend+Developer;Building+Digital+Products+with+%E2%9D%A4%EF%B8%8F;Open+Source+Advocate+%26+Accessibility+Champion;Founder+of+FACODI;Creating+Inclusive+%26+Accessible+Technology" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <p align="center">
@@ -11,8 +11,9 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-m7)
-[![Website](https://img.shields.io/badge/Website-monynha.fun/Marcelo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monynha.fun/Marcelo)
-[![Email](https://img.shields.io/badge/Email-marcelo@monynha.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo@monynha.com)
+
+<!-- [![Website](https://img.shields.io/badge/Website-monynha.fun/Marcelo-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monynha.fun/Marcelo)
+<!-- [![Email](https://img.shields.io/badge/Email-marcelo@monynha.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo@monynha.com) -->
 [![Instagram](https://img.shields.io/badge/Instagram-@marcelo.santos.027-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelo.santos.027)
 [![GitHub](https://img.shields.io/badge/GitHub-@marcelo--m7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelo-m7)
 
@@ -36,8 +37,8 @@ My mission is to democratize technology by creating accessible, inclusive soluti
 const marcelo = {
     role: "Software Engineer | DevOps Enthusiast",
     location: "Brazil 🇧🇷 / Portugal 🇵🇹",
-    website: "https://marcelo.monynha.com",
-    company: "Founder @ Monynha Softwares",
+    website: "https://facodi.com",
+    company: "Corvanis",
     
     interests: [
         "Automation & DevOps",
