@@ -237,4 +237,5 @@ I'm always interested in connecting with people who share similar passions:
 
 [Marcelo Santos Repositories](https://github.com/marcelo-m7?tab=repositories)
 </br>
-[Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
+
+<!-- [Monynha Softwares GitHub](https://github.com/Monynha-Softwares)
